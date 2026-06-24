@@ -74,6 +74,7 @@ Instead of using GIF decoding, the project preloads multiple PNG images and disp
 ├── frame4.png
 ├── frame5.png
 ├── README.md
+├── LVGL Bin
 └── Result/
     ├── result001.gif
     └── result001.mp4
@@ -126,15 +127,6 @@ Using sequential PNG frames provides:
 * Improved stability
 * Easier customization
 
----
-
-## 📸 Screenshots
-
-You can place screenshots in the `Result/` folder and reference them like:
-
-```md
-![Main Screen](./Result/main.png)
-```
 
 ---
 
