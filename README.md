@@ -2,16 +2,6 @@
 
 # ESP32 Display Welcome Animation
 
-A MicroPython + LVGL startup animation demo.
-
-## 🎥 Demo
-
-![Startup Animation](./Result/result001.gif)
-
-> High-quality video: [result001.mp4](./Result/result001.mp4)
-
-# ESP32 Display Welcome Animation
-
 A MicroPython + LVGL startup animation demo for **ESP32-S3** using an **ILI9488 (320×480)** TFT LCD and **FT6X36** capacitive touch controller.
 
 ## 🎥 Demo
